@@ -1,0 +1,11 @@
+﻿  Source.cpp
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(32): error C2062: type 'int' unexpected
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(32): error C2065: 'j' : undeclared identifier
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(32): error C2143: syntax error : missing ';' before ')'
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(33): error C2143: syntax error : missing ';' before '{'
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(34): error C2065: 'j' : undeclared identifier
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(38): error C2062: type 'int' unexpected
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(38): error C2065: 'j' : undeclared identifier
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(38): error C2143: syntax error : missing ';' before ')'
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(39): error C2143: syntax error : missing ';' before '{'
+e:\tin\data structure\recursion\4-queens\4-queens\source.cpp(40): error C2065: 'j' : undeclared identifier

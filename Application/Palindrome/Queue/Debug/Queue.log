@@ -1,0 +1,6 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Queue.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+e:\tin\datastructure\queue\queue_version2.1\queue\queue\main.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+e:\tin\datastructure\queue\queue_version2.1\queue\queue\main.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+e:\tin\datastructure\queue\queue_version2.1\queue\queue\main.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+  Queue.vcxproj -> E:\Tin\DataStructure\Queue\Queue_version2.1\Queue\Debug\Palindrome.exe

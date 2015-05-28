@@ -1,0 +1,9 @@
+﻿  list.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall list<int>::list<int>(void)" (??0?$list@H@@QAE@XZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall list<int>::insert(int,int)" (?insert@?$list@H@@QAEXHH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall list<int>::initialization_arrays(void)" (?initialization_arrays@?$list@H@@QAEXXZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall list<int>::retreive(int,int &)" (?retreive@?$list@H@@QAEXHAAH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall list<int>::print(void)" (?print@?$list@H@@QAEXXZ) referenced in function _main
+E:\Tin\Data Structer\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 5 unresolved externals
