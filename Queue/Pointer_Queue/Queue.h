@@ -20,15 +20,16 @@ public:
 	T Front()const;
 };
 
-
 template<class T>
 QueueLL<T>::QueueLL(){
 	front = rear = NULL;
 }
+
 template<class T>
 QueueLL<T>::~QueueLL(){
 	// descontructor
 }
+
 template<class T>
 void QueueLL<T>::Enqueue(T value){
 	Node* newNode = new Node();
@@ -50,7 +51,9 @@ void QueueLL<T>::Dequeue(){
 		return;
 	}
 	if (front->next != NULL){
+		Node* temp = front;
 		front = front->next;
+		delete(temp);
 	}
 }
 template<class T>
@@ -63,4 +66,5 @@ T QueueLL<T>::Front()const{
 	// get data of front
 	return front->data;
 }
+
 #endif
